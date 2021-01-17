@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-**MrBessrour/MrBessrour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Rouissi's github stats](https://github-readme-stats.vercel.app/api?username=MrBessrour&show_icons=true&theme=dark  )](https://github.com/MrBessrour)
 
 
