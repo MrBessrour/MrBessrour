@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Profile Views [![HitCount](http://hits.dwyl.com/rouissi-iheb/rouissi-iheb.svg)](http://hits.dwyl.com/rouissi-iheb/rouissi-iheb)
 
 [![Rouissi's github stats](https://github-readme-stats.vercel.app/api?username=MrBessrour&show_icons=true&theme=dark  )](https://github.com/MrBessrour)
 
