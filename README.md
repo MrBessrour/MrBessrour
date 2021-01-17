@@ -3,6 +3,7 @@
 
 [![Rouissi's github stats](https://github-readme-stats.vercel.app/api?username=MrBessrour&show_icons=true&theme=dark  )](https://github.com/MrBessrour)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBessrour&layout=compact&show_icons=true&theme=dark )](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
