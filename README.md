@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-Profile Views [![HitCount](http://hits.dwyl.com/rouissi-iheb/rouissi-iheb.svg)](http://hits.dwyl.com/rouissi-iheb/rouissi-iheb)
+<center>
+My Profile Views :
+ <img src="http://profile-counter.glitch.me/rouissi-iheb/count.svg" />
+</center>
 
 [![Rouissi's github stats](https://github-readme-stats.vercel.app/api?username=MrBessrour&show_icons=true&theme=dark  )](https://github.com/MrBessrour)
 
@@ -14,4 +17,6 @@ Profile Views [![HitCount](http://hits.dwyl.com/rouissi-iheb/rouissi-iheb.svg)](
 - 💬 Ask me about Godot !
 - 📫 How to reach me: ibrahimbessrour@yahoo.com
 - ⚡ Fun fact: Having errors is better than wrong results !
+
+
 
