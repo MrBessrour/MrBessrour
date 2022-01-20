@@ -11,7 +11,7 @@ My Profile Views :
 
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning flutter 
+- 🌱 I’m currently javascripting 
 - 👯 i post videos on Youtube [go subscribe](https://www.youtube.com/c/BrahimBessrour)
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Godot !
