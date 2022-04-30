@@ -14,10 +14,12 @@ My Profile Views :
 
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=MySQL&logoColor=white" />
-  
+ 
+<img alt="Maven" src="https://img.shields.io/badge/-Maven-blue?style=flat-square&logo=Apache%20Maven&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
+
 [![Brahim's github stats](https://github-readme-stats.vercel.app/api?username=MrBessrour&show_icons=true&theme=dark  )](https://github.com/MrBessrour)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBessrour&layout=compact&show_icons=true&theme=dark )](https://github.com/anuraghazra/github-readme-stats)
