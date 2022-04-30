@@ -30,7 +30,7 @@ My Profile Views :
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently javascripting 
-- 👯 i post videos on Youtube [go subscribe](https://www.youtube.com/c/BrahimBessrour)
+- 👯 i post videos on Youtube [go subscribe](https://www.youtube.com/c/BrahimBessrour) https://img.shields.io/youtube/channel/subscribers/UC9uUuLUFIvkoHsPJbVyUJqg?style=social
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Godot !
 - 📫 How to reach me: ibrahimbessrour@yahoo.com
