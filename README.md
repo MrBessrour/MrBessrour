@@ -4,6 +4,7 @@
 My Profile Views :
  <img src="http://profile-counter.glitch.me/MrBessrour/count.svg" />
 </center>
+<p>
 <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white" />
 
 <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javaScript&logoColor=white" />
@@ -16,8 +17,7 @@ My Profile Views :
   
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
-
+</p>
 [![Brahim's github stats](https://github-readme-stats.vercel.app/api?username=MrBessrour&show_icons=true&theme=dark  )](https://github.com/MrBessrour)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBessrour&layout=compact&show_icons=true&theme=dark )](https://github.com/anuraghazra/github-readme-stats)
