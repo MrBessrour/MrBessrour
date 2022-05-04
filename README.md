@@ -44,10 +44,6 @@ Socials
   <a href="https://www.youtube.com/channel/UC9uUuLUFIvkoHsPJbVyUJqg" target="_blank">
   <img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white">
  </a>
-  </a>
-  <a href="https://www.youtube.com/channel/UC9uUuLUFIvkoHsPJbVyUJqg" target="_blank">
-  <img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white">
- </a>
    </a>
   <a href="https://stackoverflow.com/users/12956008/brahim-bessrour?tab=profile" target="_blank">
   <img src="https://img.shields.io/badge/-Stack%20Overflow-gray?style=flat-square&logo=Stack%20Overflow&logoColor=white">
