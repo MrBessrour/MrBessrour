@@ -38,6 +38,19 @@ My Profile Views :
 
 Socials
 <p>
- <a href="https://www.linkedin.com/in/brahim-bessrour-905355177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/brahim-bessrour-905355177/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white">
+ </a>
+  <a href="https://www.youtube.com/channel/UC9uUuLUFIvkoHsPJbVyUJqg" target="_blank">
+  <img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white">
+ </a>
+  </a>
+  <a href="https://www.youtube.com/channel/UC9uUuLUFIvkoHsPJbVyUJqg" target="_blank">
+  <img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white">
+ </a>
+   </a>
+  <a href="https://stackoverflow.com/users/12956008/brahim-bessrour?tab=profile" target="_blank">
+  <img src="https://img.shields.io/badge/-Stack%20Overflow-gray?style=flat-square&logo=Stack%20Overflow&logoColor=white">
+ </a>
 </p>
 
