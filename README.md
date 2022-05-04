@@ -36,5 +36,8 @@ My Profile Views :
 - 📫 How to reach me: ibrahimbessrour@yahoo.com
 - ⚡ Fun fact: Having errors is better than wrong results !
 
-
+Socials
+<p>
+ <a href="https://www.linkedin.com/in/brahim-bessrour-905355177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white"></a>
+</p>
 
